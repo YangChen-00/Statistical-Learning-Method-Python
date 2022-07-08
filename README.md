@@ -1,2 +1,2 @@
 # Statistical-Learning-Method-Python
-统计学习方法中的算法在Python中的实现
+李航《统计学习方法》中的算法在Python中的实现
